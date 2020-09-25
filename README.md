@@ -86,7 +86,7 @@ Lilac is also available for the [Kermit](https://github.com/orhun/kermit) termin
 
 This port was possible beacuse of [tobiastimm's](https://github.com/tobiastimm) project, [code-theme-converter](https://github.com/tobiastimm/code-theme-converter).
 
-Read more about it, [here](https://dev.to/tobiastimm/convert-any-visual-studio-code-theme-to-sublime-text-3-or-intellij-idea-jod).
+Read more about it [here](https://dev.to/tobiastimm/convert-any-visual-studio-code-theme-to-sublime-text-3-or-intellij-idea-jod).
 
 The font in the screenshot is [Fira-Code](https://github.com/tonsky/FiraCode).
 
