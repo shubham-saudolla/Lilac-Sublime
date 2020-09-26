@@ -20,13 +20,9 @@ The theme is also available for Visual Studio Code, Mozilla Firefox, Hyper termi
 
 ## Install
 
-### Install using Package Control
-
-If you are using [Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Lilac via the `Package Control: Install Package` menu item. The Dracula Theme package is listed as `Lilac` in the packages list.
-
 ### Install using Git
 
-Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
+If you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
 
 You can locate your Sublime Text `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
 
