@@ -48,7 +48,6 @@ Go to `Preferences -> Color Scheme -> User` and select the `Lilac Color Scheme`.
 To show support for the project, you can
 
 - [Star the repository.](https://github.com/shubham-saudolla/Lilac-Sublime)
-- [Follow me on Twitter, and say hi!](https://twitter.com/joyDivided13)
 - [Follow me on Instagram.](https://www.instagram.com/s.phoenix99/)
 - [Donate via PayPal.](https://paypal.me/shubhamsaudolla)
 
